@@ -1,0 +1,16 @@
+Roll: 10
+Name: gaurav pandey
+Degree: bca
+Subject 1: 98
+Subject 2: 90
+Subject 3: 89
+Subject 4: 99
+Percentage: 94.00%
+Grade: A+
+-----------------------------
+
+Name:gaurav, Roll:20, Degree:mca
+Course:Python
+Marks:360, Percentage:90.0, Grade:A+\ngaurav               20              bca                  Not Selected    Not Graded     
+Not Filled      Not Filled      Not Filled      DBMS                 Not Graded     
+Not Filled      Not Filled      Not Filled      Not Filled           A+             
